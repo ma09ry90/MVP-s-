@@ -6,3 +6,4 @@ Non-Technical Challenges: Unexpectedly, the project encountered non-technical ch
 #Progress
 On a scale of 1 to 10, I would rate my progress this week as a 7. I measure my progress not just by the technical milestones I planned to achieve but also by how I adapted to unexpected challenges. I give myself this rating because, although I didn't accomplish as much as I had hoped due to recurring power outages in my city, I still managed to make progress by exploring alternative power options. Despite these setbacks, I am confident that I can complete the project on time by working more strategically.
 #Screenshots
+![Uploading UShelf - Home - Google Chrome 9_5_2024 2_37_46 PM.png…]()
